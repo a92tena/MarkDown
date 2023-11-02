@@ -1,0 +1,6 @@
+baseURL = 'https://a92tena.github.io/MarkDown/'
+languageCode = 'en-us'
+title = 'Markdawn'
+theme ='relearn'
+
+
